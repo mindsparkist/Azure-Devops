@@ -2,6 +2,8 @@
 
 In Azure DevOps, "Organization," "Project," and "Team" are key structural elements that help you manage your software development lifecycle. Here's a breakdown of each and how they relate:
 
+https://cumailin-my.sharepoint.com/:v:/g/personal/d23mca110423_cuchd_in/ESW-OkSF1rVCpbfe40ghouUBtyCJIm6QUYiStW5JujWkRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YeXTaB
+
 **1. Organization**
 
 *   **The highest level:** Think of an organization as a container for all your projects. It represents your company or a division within your company.
